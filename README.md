@@ -1,0 +1,1 @@
+This was part of a follow-me project for an excellent Udemy course, "Bootstrap 4 From Scratch with 5 Projects" by Brad Traversy: https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/
